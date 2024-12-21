@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Reyan Alam | 🎓 IIT Patna '22 🎓 | 💻 Data Scientist 💻 | 📊 Machine Learning Enthusiast 📊 | 🌱 Lifelong Learner 🌱
 
 ## About Me
-I am a passionate Data Scientist with a strong foundation in computer science and statistics. Currently, I’m working on machine learning projects that focus on data analysis, feature engineering, and model deployment. I love exploring new technologies and frameworks to enhance my skills and knowledge. My main areas of interest include machine learning,Deep learning and Natural Language Processing .
+I am a passionate Data Scientist with a strong foundation in AI. Currently, I’m working on projects involving text-to-image generation, chatbot development, air quality classification,etc. I enjoy exploring new technologies and frameworks to enhance my skills in machine learning, deep learning, and Natural Language Processing. My work focuses on building practical applications that leverage advanced AI techniques for real-world impact.
 
 ## Get in Touch
 I'm always eager to collaborate on exciting projects, discuss data science trends, or just chat about technology and problem-solving. Feel free to reach out:
